@@ -40,7 +40,9 @@ This project analyzes medical insurance charges to identify key cost drivers and
 - % Smokers
 
 ## 🖼 Power BI Dashboard
-![Medical Insurance Dashboard]([image/dashboard.png])
+Medical Insurance Cost Analysis Dashboard looks like 
+![Alt text](https://github.com/ChetanaBandurkar/Medical-Insurance-Cost-Analysis-/blob/main/image/dashboard.png)
+
 
 ## 💡 Key Insights
 - Smokers incur 3–4x higher medical costs than non-smokers
