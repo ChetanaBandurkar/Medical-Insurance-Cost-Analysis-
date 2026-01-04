@@ -39,6 +39,15 @@ This project analyzes medical insurance charges to identify key cost drivers and
 - Average Charges (Smokers vs Non-Smokers)
 - % Smokers
 
+## Project Process
+- Collected and loaded the medical insurance dataset using Python
+- Performed data cleaning and validation to ensure data quality
+- Conducted exploratory data analysis (EDA) to understand distributions and relationships
+- Engineered new features such as age groups and BMI categories
+- Applied statistical tests to validate key assumptions and findings
+- Identified major cost drivers and high-risk customer segments
+- Built an interactive Power BI dashboard to visualize KPIs and insights
+
 ## 🖼 Power BI Dashboard
 Medical Insurance Cost Analysis Dashboard looks like 
 ![Alt text](https://github.com/ChetanaBandurkar/Medical-Insurance-Cost-Analysis-/blob/main/image/dashboard.png)
